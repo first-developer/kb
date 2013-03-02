@@ -5,11 +5,10 @@
 
 
 ## Installation
-```
-#!bash
 
-gem install kb
-```
+	gem install kb
+	
+	
 ## Usage and  documentation
 ===
 
